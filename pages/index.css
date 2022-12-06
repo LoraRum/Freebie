@@ -63,3 +63,13 @@
 @import url(../blocks/posts-blog-top/__down/post-blog-top__down.css);
 @import url(../blocks/posts-blog-top/__head/post-blog-top__head.css);
 @import url(../blocks/posts-blog-top/__box/post-blog-top__box.css);
+
+@import url(../blocks/footer-center/footer-center.css);
+@import url(../blocks/footer-center/__link/footer-center__link.css);
+@import url(../blocks/footer-center/__copyright/footer-center__copyright.css);
+@import url(../blocks/footer-center/__links/footer-center__links.css);
+@import url(../blocks/footer-center/__logo/footer-center__logo.css);
+@import url(../blocks/footer-center/__frame/footer-center__frame.css);
+@import url(../blocks/footer-center/__name/footer-center__name.css);
+@import url(../blocks/footer-center/__social/footer-center__social.css);
+@import url(../blocks/footer-center/__year/footer-center__year.css);
