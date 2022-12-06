@@ -1,0 +1,6 @@
+.footer-center__frame {
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    margin-bottom: 72px;
+}
