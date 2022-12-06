@@ -1,0 +1,6 @@
+.post-blog-top__content {
+    display: flex;
+    margin: 63px 78px 49px;
+    gap: 27px;
+    flex-direction: column;
+}

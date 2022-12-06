@@ -1,0 +1,11 @@
+.button {
+    outline: none;
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    font-family: 'Gilroy', Arial sans-serif;
+    border-radius: 5px;
+    font-size: 18px;
+    line-height: 22px;
+    text-transform: uppercase;
+}

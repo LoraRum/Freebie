@@ -1,0 +1,6 @@
+.post-blog-top__cards {
+    margin: 40px 135px 0;
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+}

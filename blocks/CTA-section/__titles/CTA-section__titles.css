@@ -1,0 +1,9 @@
+.CTA-section__titles {
+    font-family: 'Gilroy', Arial sans-serif;
+    font-size: 32px;
+    line-height: 140.62%;
+    display: flex;
+    gap: 0;
+    flex-direction: column;
+    margin: 81px 0;
+}

@@ -1,0 +1,6 @@
+.feature-split-right__contents {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 164px 102px;
+}

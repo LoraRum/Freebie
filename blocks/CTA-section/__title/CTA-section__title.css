@@ -1,0 +1,8 @@
+.CTA-section__title {
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+.CTA-section__title:last-child {
+    font-weight: normal;
+}

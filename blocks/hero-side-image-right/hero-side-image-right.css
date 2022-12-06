@@ -1,0 +1,10 @@
+.hero-side-image-right{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    background-color: #F1F1F2;
+    margin: 0 auto;
+    /* object-fit: contain; */
+    padding: 0;
+    justify-content: center;
+    align-items: stretch;
+}

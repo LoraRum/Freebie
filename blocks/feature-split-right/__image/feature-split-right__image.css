@@ -1,0 +1,7 @@
+.feature-split-right__image{
+  background-repeat: no-repeat;
+  box-sizing: border-box;
+  margin: 0;
+  object-fit: cover;
+  max-width: 100%;
+}

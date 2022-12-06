@@ -1,0 +1,11 @@
+.posts-tall__cards {
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    margin: 0;
+    overflow: hidden
+}
+
+.posts-tall__cards:hover {
+    box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.05);
+}

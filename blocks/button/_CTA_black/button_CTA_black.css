@@ -1,0 +1,10 @@
+.button_CTA_black {
+    background: #231F20;
+    border-radius: 5px;
+    width: 200px;
+    height: 50px;
+    color: white;
+    font-family: 'Gilroy', Arial sans-serif;
+    font-size: 18px;
+    line-height: 22px;
+}

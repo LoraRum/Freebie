@@ -1,0 +1,10 @@
+.post-blog-top__card {
+    display: flex;
+    flex-direction: column;
+    background: #FFFFFF;
+    gap: 16px;
+}
+
+.post-blog-top__card:hover {
+    box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.05);
+}

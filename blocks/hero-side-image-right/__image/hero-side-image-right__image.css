@@ -1,0 +1,7 @@
+.hero-side-image-right__image {
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+    margin: 0;
+    max-width: 100%;
+    object-fit: cover;
+}

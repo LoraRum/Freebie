@@ -1,0 +1,9 @@
+.feature-split-right{
+    background-color: #F1F1F2;
+    margin: 0 0 96px;
+    object-fit: cover;
+    /* padding: 0 0 96px; */
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    align-items: stretch;
+}

@@ -1,0 +1,7 @@
+.hero-side-image-right__contents {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 154px 126px;
+    /* width: 719px; */
+}

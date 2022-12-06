@@ -1,0 +1,7 @@
+.posts-tall__galery {
+    gap: 20px;
+    margin: 0 135px;
+    display: grid;
+    justify-content: center;
+    grid-template-columns: repeat(auto-fit, minmax(270px, 1fr))
+}

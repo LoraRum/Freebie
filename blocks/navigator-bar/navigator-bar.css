@@ -1,0 +1,9 @@
+.navigator-bar {
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin: 27px 34px 0 80px;
+    margin-bottom: 35px;
+}
